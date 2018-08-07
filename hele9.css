@@ -4,16 +4,16 @@
     margin-bottom: 3px;
     border-radius: 15px;
 }
-.s1.fa.fa-user.label.badgex.label-as-badge.label-success {background-color: #c86184!important;}
-.fr.borderg, .fr.borderg {border: 1px solid #108378;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
+.s1.fa.fa-user.label.badgex.label-as-badge.label-success {background-color: #000000!important;}
+.fr.borderg, .fr.borderg {border: 1px solid #000000;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
 .label-primary.mini.fl, .border-radius {border: 2px solid #;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
-.room.borderg.hand.nosel.fl, .border-radius {border: 1px solid #c86184;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
+.room.borderg.hand.nosel.fl, .border-radius {border: 1px solid #000000;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
 .btn-sm, .btn-sm {border: 1px solid #28bbad;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
-.hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border {border: 1px solid #c86184;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
-.uzr.fl.corner.borderg.mm, .uzr.fl.corner.borderg.mm {border: 1px solid #c86184;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
-.label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 1px solid #c86184;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
-ul.nav.nav-tabs.fl li a:hover {background-color: #108378;color: white;}
-ul.nav.nav-tabs.fl li {width: 33.3%;border-top: 2px solid #108378;border-radius: 15px 15px 0px 0px;background-color: #FFFFFF;border-bottom: 3px solid #108378;}
+.hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border {border: 1px solid #000000;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
+.uzr.fl.corner.borderg.mm, .uzr.fl.corner.borderg.mm {border: 1px solid #000000;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
+.label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 1px solid #000000;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
+ul.nav.nav-tabs.fl li a:hover {background-color: #000000;color: white;}
+ul.nav.nav-tabs.fl li {width: 33.3%;border-top: 2px solid #000000;border-radius: 15px 15px 0px 0px;background-color: #FFFFFF;border-bottom: 3px solid #000000;}
 ul.nav.nav-tabs.fl li a {font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 6px!important;text-align: center!important;border-radius: 15px 15px 0px 0px;width: 100%;color: #000000;}
 
 div#tlogins {
