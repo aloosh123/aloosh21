@@ -51,8 +51,8 @@ padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;
     height: 28px;
     color: #f9f9f9;
     border-radius: 5px 5px 5px 5px;
-    border-bottom: 2px solid #c86184;
-    border-top: 2px solid #c86184;
+    border-bottom: 2px solid #000000;
+    border-top: 2px solid #000000;
     padding-bottom: 2px!important;
 }
 
@@ -69,7 +69,7 @@ label.fl.label.loginstat.label-success {
 }
 button.btn.fr.btn-success.fa.fa-refresh {
 padding: 4px 5px;
-background-color: #c86184!important;
+background-color: #000000!important;
 background-image: none;
 border: 2px solid transparent;
 margin-top: -22px!important;
@@ -112,7 +112,7 @@ padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;
     background-color: rgb(255, 235, 247);
     margin-top: 1px;
     height: 24px;
-    color: #c86184;
+    color: #000000;
     text-shadow: 2px 0px 8px rgba(19, 18, 18, 0.32) , 0px 2px 10px #fff !important;
     border-radius: 5px 5px 5px 5px;
 }
@@ -186,7 +186,7 @@ label.fl.label.loginstat.label-success {
     display: inline-flex;
 }
 .fl.label.loginstat.label-success, .fl.label.loginstat.label-info {
-    color: #c86184;
+    color: #000000;
     border: 1px solid #e2e0e0;
     border-radius: 5px 5px 5px 5px;
     margin-top: 1px;
@@ -205,7 +205,7 @@ label.fl.label.loginstat.label-success {
 }
 
 img.fitimg.fl.u-pic {
-    border: 1px solid #c86184;
+    border: 1px solid #000000;
     border-radius: 19px;
 }
 label.label.tc.border.btn.fl {
